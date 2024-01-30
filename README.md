@@ -1,4 +1,4 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+<!-- ![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
 ### Live - https://react-portfolio-template.netlify.app/
 
@@ -10,7 +10,7 @@ Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
 Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
-### Features - 
+### Features -
 
 - Modern Stack (Next.js + TailwindCSS)
 - Minimal Design
@@ -37,7 +37,7 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - `yarn dev`
 
 
-### How To Deploy - 
+### How To Deploy -
 
 - There are many ways to Deploy this repo.
 - here we are gonna use netlify
@@ -45,17 +45,17 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - after login select the forked repo or the repo you want to deploy
 - after selecting netlify will automatially deploy your website.
 
-Quickes way to deploy this repo - 
+Quickes way to deploy this repo -
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
 
 
-### How To Contribute - 
+### How To Contribute -
 
 I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
 
 
-### Tech Stack Used - 
+### Tech Stack Used -
 - Next.js
 - TailwindCSS
 
@@ -76,4 +76,4 @@ Many hours of hard work have gone into this project. Your support will be very a
 
 
 
-
+ -->
