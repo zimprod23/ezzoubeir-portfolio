@@ -1,1 +1,137 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Ezzoubeir",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Ezzoubeir Elasraoui - curious",
+  "headerTaglineThree": "software engineer",
+  "headerTaglineFour": " based in Rabat, Morroco",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/zimprod23"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ezzoubeir-elasraoui-b0005a19b/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:elassraouiezzoubeir@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "AI auto drive",
+      "description": "Using Unity ML-Agents for reinforcement learning to implement an autodriving system",
+      "imageSrc": "https://wallpaperbat.com/img/109996-machine-learning-wallpaper.jpg",
+      "url": "https://www.linkedin.com/posts/ezzoubeir-elasraoui-b0005a19b_reinforcement-learning-agent-learns-to-avoid-activity-6971122878524059650-5u8p?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "id": "2",
+      "title": "Car control using computer vision",
+      "description": "Using Mediapipe and Unity to implement car control through computer vision with a socket server",
+      "imageSrc": "https://w0.peakpx.com/wallpaper/410/459/HD-wallpaper-maxinai-provides-world-class-expertise-and-technology-to-create-computer-vision-solutions-that-exceed-expectations.jpg",
+      "url": "https://www.linkedin.com/posts/ezzoubeir-elasraoui-b0005a19b_drifting-car-using-unity-physics-and-computer-activity-7060975627708850176--OxB?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "id": "3",
+      "title": "E-commerce website",
+      "description": "Building an e-commerce website using the MERN (MongoDB, Express.js, React, Node.js) stack",
+      "imageSrc": "https://i.morioh.com/201001/4b65b25b.webp",
+      "url": "https://zimstore.netlify.app/"
+    },
+    {
+      "id": "4",
+      "title": "Video to presentation",
+      "description": "Building a simple Python console app to convert a YouTube video into slides.",
+      "imageSrc": "https://www.vmaker.com/assets/img/create_videos_presentation_og.jpg",
+      "url": "https://www.linkedin.com/posts/ezzoubeir-elasraoui-b0005a19b_education-videotopresentation-productivity-activity-7123074120975626240-VWNX?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "id": "5",
+      "title": "Serverless C2C backend",
+      "description": "Building a C2C (Customer to Customer) backend using Node.js, TypeScript, Serverless Framework, and AWS CDK",
+      "imageSrc": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2020/05/14/Picture1-4.png",
+      "url": "#"
+    },
+    {
+      "id": "6",
+      "title": "Kafka microservice",
+      "description": "Building a microservice with Node.js, Kafka, elasticsearch and Clean Architecture.",
+      "imageSrc": "https://i.ytimg.com/vi/wdsiQEa5mQY/maxresdefault.jpg",
+      "url": "#"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "AI",
+      "description": "Proficient in developing artificial intelligence solutions, using cutting-edge technologies to tackle complex problems and enhance business processes."
+    },
+    {
+      "id": "2",
+      "title": "DevOps",
+      "description": "Skilled in optimizing collaboration between development and operations, ensuring efficient workflows for reliable and streamlined software delivery."
+    },
+    {
+      "id": "3",
+      "title": "Backend",
+      "description": "Experienced in creating and maintaining robust backend systems, providing a solid foundation for powerful and scalable applications."
+    },
+    {
+      "id": "4",
+      "title": "Mobile Development",
+      "description": "Skilled in mobile app development, adept at creating seamless and user-friendly experiences across iOS and Android platforms. Proficient in leveraging the latest technologies to build high-performance and visually appealing mobile applications."
+    }
+  ],
+  "aboutpara": "Recently graduated with a master's degree in Intelligent Processing Systems, I bring a robust background in software engineering, artificial intelligence, and DevOps to the table. My academic journey has equipped me with a deep understanding of cutting-edge technologies and their practical applications. I am enthusiastic about leveraging my skills and knowledge to contribute meaningfully to innovative projects. Eager to embark on new challenges and explore opportunities that align with my passion for technology, I am ready to bring a fresh perspective to the dynamic field of software development.",
+  "resume": {
+    "tagline": "👋  Software Engineer | DevOps | AI",
+    "description": "Recently graduated with a master's degree in intelligent processing systems , passionate about software development, DevOps, and artificial intelligence, seeking new opportunities to start my career.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "October 2023 - Present",
+        "type": "Freelance",
+        "position": "Fullstack engineer",
+        "bullets": "React native, Nodejs, Typescript"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9bdzdza8a-cfbc1c089725",
+        "dates": "February 2023 - July 2023",
+        "type": "Internship",
+        "position": "Android developer at LoginID canda",
+        "bullets": "Kotlin, java, design patterns, clean architecture, Dagger Hilt"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9bddz8a-cfbc1c089725",
+        "dates": "May 2021 - august 2023",
+        "type": "Internship",
+        "position": "Frontend developer/data scientist at lifemakeracademy",
+        "bullets": " React, redux, R, polynomial, LASSO  and logistic regression"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9djiozab8a-cfbc1c089725",
+        "dates": "May 2021 - July 2023",
+        "type": "Internship",
+        "position": "Fullstack developer at Cefolim",
+        "bullets": "React, redux, expressjs, mongoDB, socket.io, restAPI, nodeJs, JWT"
+      }
+    ],
+    "education": {
+      "universityName": "Mohammed V University",
+      "universityDate": "2021-2023",
+      "universityPara": "master's degree in intelligent processing systems "
+    },
+    "languages": ["Javascript", "Python", "Java", "R", "C#"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["AI", "CSP", "AWS", "Oracle", "Postgresql"]
+  }
+}

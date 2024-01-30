@@ -55,8 +55,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                           ? "menu-white.svg"
                           : "menu.svg"
                         : theme === "light"
-                        ? "cancel.svg"
-                        : "cancel-white.svg"
+                          ? "cancel.svg"
+                          : "cancel-white.svg"
                     }`}
                   ></img>
                 </Popover.Button>
@@ -108,7 +108,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() =>
+                      window.open("mailto:elassraouiezzoubeir@gmail.com")
+                    }
                   >
                     Contact
                   </Button>

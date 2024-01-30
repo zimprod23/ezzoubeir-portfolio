@@ -24,13 +24,25 @@ const Resume = () => {
   }, []);
   return (
     <>
-      {process.env.NODE_ENV === "development" && (
+      {/* {process.env.NODE_ENV === "development" && (
         <div className="fixed bottom-6 right-6">
           <Button onClick={() => router.push("/edit")} type={"primary"}>
             Edit Resume
           </Button>
         </div>
-      )}
+      )} */}
+      <div className="fixed bottom-6 right-6">
+        <Button
+          onClick={() =>
+            window.open(
+              "https://drive.google.com/file/d/1qIPa29ZgMgki1LeI7Efx6HvRKBL4-BJA/view?usp=sharing"
+            )
+          }
+          type={"primary"}
+        >
+          Full Resume
+        </Button>
+      </div>
       {data.showCursor && <Cursor />}
       <div
         className={`container mx-auto mb-10 ${
