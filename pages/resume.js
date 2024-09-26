@@ -35,7 +35,7 @@ const Resume = () => {
         <Button
           onClick={() =>
             window.open(
-              "https://drive.google.com/file/d/1qIPa29ZgMgki1LeI7Efx6HvRKBL4-BJA/view?usp=sharing"
+              "https://drive.google.com/file/d/1-91uiej9FTKqWsPNJUFBP-t-m_fom5v0/view?usp=sharing"
             )
           }
           type={"primary"}

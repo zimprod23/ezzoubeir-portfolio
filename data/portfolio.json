@@ -27,6 +27,13 @@
   ],
   "projects": [
     {
+      "id": "0",
+      "title": "MemeMaker Mobile app",
+      "description": "Using React native expo to create a meme maker app (straightforward and easy to use app)",
+      "imageSrc": "/images/Feature_Graphics.png",
+      "url": "https://www.youtube.com/watch?v=aR_W9lZTfAs&ab_channel=Ezzoubeir"
+    },
+    {
       "id": "1",
       "title": "AI auto drive",
       "description": "Using Unity ML-Agents for reinforcement learning to implement an autodriving system",
